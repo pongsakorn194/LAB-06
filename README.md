@@ -84,3 +84,6 @@
 ``` ID : (ป้อนรหัสนักศึกษา).```
 
 ``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).```
+
+![](https://github.com/pongsakorn194/LAB-06/blob/master/imgs/photo9.1.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-06/blob/master/imgs/photo9.2.png?raw=true)
